@@ -12,24 +12,25 @@
 
 ### Currently
 
-<div style="display: flex; gap: 4rem;">
+<div >
 <div>
 <ul>
-<li>Building <strong>Arcanae</strong> – a soundscape streaming audio app using React Native, Expo, and Firebase</li>
+<li>Building <strong>Arcanae</strong> – a streaming audio soundscape app using React Native, Expo, and Firebase</li>
 <li>Open to full-time roles in front-end or full-stack development</li>
+<li>Adjusting to the matrix after extended travels to Asia</li>
 <li>Perfecting my grandma's apple pie recipe</li>
 </ul>
 </div>
-<img src="arcanae.png" alt="coming soon" width="150" style="transform: rotateZ(10deg) rotateY(10deg); border: .75rem solid #111; border-radius: 1rem; box-shadow: 20px 20px 15px 5px rgba(0, 0, 0, 0.3);">
 </div>
 
 ### Fun Fact
 
-<div style="display: flex; justify-content: space-between; gap: 2rem;">
+<div>
 <img src="toreador.png" width="400" alt="I literally ran away with the circus" />
 <div>
 <p>Before tech, I toured internationally for nearly a decade as bandleader and musician with Cirque du Soleil's TOTEM. I played over 2600 shows in 45 cities around the world.</p>
-<p>Being a musician has taught me discipline, adaptability, leadership, how to work as a team, group dynamics, creative thinking, and the power of focus and flow states. These traits and abilities feed back into my work as a developer and colleague. </p>
+<p>Being a musician has taught me discipline, adaptability, leadership, how to work as a team, group dynamics, creative thinking, and the power of focus and flow states. These traits and abilities feed back into my work as a developer. I thrive in collaborative, cross-functional teams and believe strongly that people do their best work when they're having fun.</p>
+<p>Want to hear more? <a href="https://open.spotify.com/album/1uI4uLko57jaYCv9rOgm62">Here's one of my albums of Spotify.</a></p>
 </div>
 </div>
 
