@@ -2,7 +2,7 @@
 
 <h3>Full-Stack Developer | Musician | Wellness Advocate</h3>
 
-I'm a full-stack developer with a unique background bridging technology and music. After 9 years as a bandleader for Cirque du Soleil, extensive studies in North Indian Classical Music in Mumbai, India with Pandit Raghunath Seth, a degree in Music Production and Engineering from Berklee College of Music, and years of freelance web development for clients in the music and arts worlds and working at scale for a Fortune 100 tech company, I've channeled my passion for both code and sound into building meaningful digital experiences.
+I'm a full-stack developer with a unique background bridging technology and music. After 9 years as a bandleader for Cirque du Soleil, extensive studies in North Indian Classical Music in Mumbai, India with Pandit Raghunath Seth, a degree in Music Production and Engineering from Berklee College of Music, years of freelance web development for clients in the music and arts worlds, and working at production scale for a Fortune 100 tech company, I've channeled my passion for both code and sound into building meaningful digital experiences.
 
 ## What I'm Building
 
