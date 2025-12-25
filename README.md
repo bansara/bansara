@@ -1,29 +1,34 @@
 # Hi, I'm Josh.
 
-<h3>I'm a frontend developer focused on building clean, modern web and mobile applications. I bring a creative, user-centered approach to everything I build — from product design to performance optimization.</h3>
+<h3>Full-Stack Developer | Musician | Wellness Advocate</h3>
 
-### Tech Stack
+I'm a full-stack developer with a unique background bridging technology and music. After 9 years as a bandleader for Cirque du Soleil, extensive studies in North Indian Classical Music in Mumbai, India with Pandit Raghunath Seth, a degree in Music Production and Engineering from Berklee College of Music, and years of freelance web development for clients in the music and arts worlds, I've channeled my passion for both code and sound into building meaningful digital experiences.
 
--   **Languages**: TypeScript, JavaScript, HTML5, CSS3
--   **Frameworks**: React, Next.js, Angular, React Native, Expo
--   **Styling**: CSS, SCSS, Tailwind CSS
--   **Tools**: Firebase, Git, Webpack, Vite
--   **Specialties**: Accessibility, Responsive UI, Cross-platform development, Web audio applications
+## What I'm Building
 
-### Currently
+eoson - A React Native wellness-focused music streaming app that emphasizes human curation and direct artist support. eoson explores the therapeutic potential of music through intentional design and evidence-based curation.
 
-<div >
-<div>
-<ul>
-<li>Building <strong>Arcanae</strong> – a streaming audio soundscape app using React Native, Expo, and Firebase</li>
-<li>Open to freelance and full-time roles in front-end or full-stack development</li>
-<li>Adjusting to life in the matrix after extended travels to Asia</li>
-<li>Perfecting my grandma's apple pie recipe</li>
-</ul>
-</div>
-</div>
+## Tech Stack
 
-### Fun Fact
+Frontend: React Native, React, Next.js, Angular, JavaScript/TypeScript, HTML, CSS
+Backend: PostgreSQL, Supabase, Firebase, Node.js, Express
+Infrastructure: CloudFront CDN, AWS, GCP
+Audio: Ableton Live, Web Audio API, Audio Post-Production
+Other: Git, Database Design, API Integration
+
+## Music & Wellness
+
+Professional multi-instrumentalist specializing in bansuri flute
+Film scoring and audio post-production
+25+ years of personal wellness practice incorporating meditation, breathwork, and sound healing
+
+## Currently Exploring
+
+Performance optimization for audio streaming applications
+The intersection of music, neuroscience, and digital wellness
+Building community-first digital products
+
+## Fun Fact
 
 <div>
 <img src="toreador.png" width="400" alt="I literally ran away with the circus" />
